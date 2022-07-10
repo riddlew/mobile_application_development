@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.152" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_assessment_edit.xml" value="0.3493670886075949" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_assessment_list.xml" value="0.3890625" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_assessment_view.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_assessmentview.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_course_edit.xml" value="0.33" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_course_list.xml" value="0.1" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_course_view.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_courselist.xml" value="0.559375" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_courseview.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_main.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_term_edit.xml" value="0.3171875" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_term_list.xml" value="0.3171875" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_term_view.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/activity_termview.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/assessment_list_item.xml" value="0.189209726443769" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/layout/courselist_item.xml" value="0.559375" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/menu/details_menu.xml" value="0.3890625" />
+        <entry key="..\:/Users/wgaming1070/OneDrive/Documents/WGU/C196 Mobile Application Development/TermApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
